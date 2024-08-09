@@ -198,11 +198,6 @@ learning => Same division sibling property change on focus
     font-size: 11px;
 }
 
-/* ====temp=== */
-.temp {
-    height: 1500px;
-}
-
 
 /* === LANGUAGE & extension SECTION === */
 .lang_row {
@@ -228,7 +223,7 @@ learning => Same division sibling property change on focus
 
 .extension_row {
     display: flex;
-    margin: 10px;
+    margin: 16px;
 }
 
 .one_extension {
