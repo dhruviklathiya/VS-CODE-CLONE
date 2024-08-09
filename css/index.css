@@ -293,12 +293,12 @@ learning => Same division sibling property change on focus
 }
 
 .one_feature_box {
-    height: 220px;
+    height: 250px;
     width: 270px;
     display: flex;
     border: rgba(255, 255, 255, 0.07) solid 1px;
     border-radius: 5px;
-    padding: 16px;
+    padding: 28px;
     background-color: #171717;
     margin: 0px 7px;
 }
@@ -306,10 +306,15 @@ learning => Same division sibling property change on focus
 .one_feature>h3 {
     color: #e9eaeb;
     font-size: 16px;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .one_feature>p {
     color: #9ba3b4;
     font-size: 14px;
+    line-height: 24px;
+}
+
+.end {
+    height: 250px;
 }
