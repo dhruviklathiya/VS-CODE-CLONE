@@ -316,5 +316,20 @@ learning => Same division sibling property change on focus
 }
 
 .end {
-    height: 250px;
+    /* height: auto; */
+    margin: 100px auto;
+}
+
+.icons img {
+    height: 22px;
+    margin: 5px;
+    width: 22px;
+}
+
+.row2 a {
+    font-size: 12px;
+    color: #9ba3b4;
+    font-weight: 500;
+    margin-right: 15px;
+    cursor: pointer;
 }
